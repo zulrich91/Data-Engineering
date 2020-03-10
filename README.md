@@ -11,3 +11,5 @@
 [Home of the first website.](http://info.cern.ch)
 
 [Convert csv to json.](https://medium.com/@hannah15198/convert-csv-to-json-with-python-b8899c722f6d)
+
+[Deploy Dash application on heroku](https://dash.plot.ly/deployment)
