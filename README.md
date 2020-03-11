@@ -15,3 +15,5 @@
 [Deploy Dash application on heroku](https://dash.plot.ly/deployment)
 
 [JavaScript online editors](https://codepen.io/pen/?&editable=true)
+
+[How to read DICOM files in Java](https://blog.idrsolutions.com/2017/03/how-to-read-dicom-files-in-java/)
