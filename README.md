@@ -19,3 +19,5 @@
 [How to read DICOM files in Java](https://blog.idrsolutions.com/2017/03/how-to-read-dicom-files-in-java/)
 
 [Image processing python](https://datacarpentry.org/image-processing/aio/index.html)
+
+[Pytorch Object detection](https://github.com/sgrvinod/a-PyTorch-Tutorial-to-Object-Detection)
