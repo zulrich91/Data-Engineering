@@ -21,4 +21,5 @@
 [Image processing python](https://datacarpentry.org/image-processing/aio/index.html)
 
 [Pytorch Object detection](https://github.com/sgrvinod/a-PyTorch-Tutorial-to-Object-Detection)
+
 [Tidy Data in python](https://www.jeannicholashould.com/tidy-data-in-python.html)
