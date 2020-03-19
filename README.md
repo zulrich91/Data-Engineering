@@ -25,3 +25,5 @@
 [Tidy Data in python](https://www.jeannicholashould.com/tidy-data-in-python.html)
 
 [User agent](https://developers.whatismybrowser.com/useragents/explore/operating_system_name/windows/)
+
+[Dash core components](https://dash.plot.ly/dash-core-components)
