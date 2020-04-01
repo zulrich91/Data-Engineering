@@ -34,6 +34,9 @@
 
 # Data Engineering tools
 [The rise of dat engineering commons skills and tools](https://www.burtchworks.com/2018/09/10/the-rise-of-data-engineering-common-skills-and-tools/)
+
 [Data engineering 101 top tools and framework resources](https://www.analyticsindiamag.com/data-engineering-101-top-tools-and-framework-resources/)
+
 [This infographic of big data tools will blow your mind](https://joviam.com/this-infographic-of-big-data-tools-will-blow-your-mind-infographic/)
+
 [Big data open source tools](https://datafloq.com/big-data-open-source-tools/os-home/)
