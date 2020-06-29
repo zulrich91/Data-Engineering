@@ -43,4 +43,6 @@
 
 [Predictive Analytics for Business Nanodegree](https://github.com/lllana/Udacity_Python/tree/master/Lesson1)
 
-[Topic Modelling](https://conda.anaconda.org/menpo/linux-64/)
+[Menpo conda packagaes](https://conda.anaconda.org/menpo/linux-64/)
+
+[https://github.com/wangpengcn/Auto-Generated-Insights-of-2019-HR-Tech-Conference-Twitter](Topic Modelling)
