@@ -42,3 +42,5 @@
 [Big data open source tools](https://datafloq.com/big-data-open-source-tools/os-home/)
 
 [Predictive Analytics for Business Nanodegree](https://github.com/lllana/Udacity_Python/tree/master/Lesson1)
+
+[Topic Modelling](https://conda.anaconda.org/menpo/linux-64/)
