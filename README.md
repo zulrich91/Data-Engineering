@@ -46,7 +46,9 @@
 [Menpo conda packagaes](https://conda.anaconda.org/menpo/linux-64/)
 
 [Topic Modelling](https://github.com/wangpengcn/Auto-Generated-Insights-of-2019-HR-Tech-Conference-Twitter)
+
 [Track tweets location using Kafka Producers](https://www.bmc.com/blogs/track-tweets-location/)
+
 [Topic Modelling for humans: gensim](https://radimrehurek.com/gensim/models/ldamodel.html)
 
 [Sample Machine Learning Projects](https://github.com/svsraju)
