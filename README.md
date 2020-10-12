@@ -51,9 +51,9 @@
 
 [Topic Modelling for humans: gensim](https://radimrehurek.com/gensim/models/ldamodel.html)
 
-[Evaluation of Topic Modeling 1](https://stackabuse.com/python-for-nlp-working-with-the-gensim-library-part-2/)
+[Method of evaluation of Topic Modeling 1](https://stackabuse.com/python-for-nlp-working-with-the-gensim-library-part-2/)
 
-[Evaluation of Topic Modeling 1](https://towardsdatascience.com/evaluate-topic-model-in-python-latent-dirichlet-allocation-lda-7d57484bb5d0)
+[Method of valuation of Topic Modeling 2](https://towardsdatascience.com/evaluate-topic-model-in-python-latent-dirichlet-allocation-lda-7d57484bb5d0)
 
 [Sample Machine Learning Projects](https://github.com/svsraju)
 # Big data architecture for health care systems
