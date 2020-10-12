@@ -51,6 +51,10 @@
 
 [Topic Modelling for humans: gensim](https://radimrehurek.com/gensim/models/ldamodel.html)
 
+[Evaluation of Topic Modeling 1](https://stackabuse.com/python-for-nlp-working-with-the-gensim-library-part-2/)
+
+[Evaluation of Topic Modeling 1](https://towardsdatascience.com/evaluate-topic-model-in-python-latent-dirichlet-allocation-lda-7d57484bb5d0)
+
 [Sample Machine Learning Projects](https://github.com/svsraju)
 # Big data architecture for health care systems
 * [Saglani, V. J., Rawal, B. S., Vijayakumar, V., & Yang, L. (2019). Big Data Technology in Healthcare: A Survey. 2019 10th IFIP International Conference on New Technologies, Mobility and Security (NTMS). doi:10.1109/ntms.2019.8763812 ](https://sci-hub.ren/10.1109/NTMS.2019.8763812)
