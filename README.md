@@ -59,6 +59,7 @@
 # Big data architecture for health care systems
 * [Saglani, V. J., Rawal, B. S., Vijayakumar, V., & Yang, L. (2019). Big Data Technology in Healthcare: A Survey. 2019 10th IFIP International Conference on New Technologies, Mobility and Security (NTMS). doi:10.1109/ntms.2019.8763812 ](https://sci-hub.ren/10.1109/NTMS.2019.8763812)
 * [El aboudi, N., & Benhlima, L. (2018). Big Data Management for Healthcare Systems: Architecture, Requirements, and Implementation. Advances in Bioinformatics, 2018, 1–10. doi:10.1155/2018/4059018](https://sci-hub.ren/10.1155/2018/4059018)
+* [Data and IoT](https://github.com/mjmolina)
 
 # Data lakes
 * https://www.capgemini.com/2018/02/the-open-business-data-lake-standard-part-ix/
