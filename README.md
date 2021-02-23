@@ -63,3 +63,9 @@
 
 # Data lakes
 * https://www.capgemini.com/2018/02/the-open-business-data-lake-standard-part-ix/
+
+# Microsoft SQL Server 
+* [Sql server data import using azure data studio](https://www.sqlshack.com/sql-server-data-import-using-azure-data-studio/)
+* [Hands on full text search sql server](https://www.sqlshack.com/hands-full-text-search-sql-server/)
+* https://azure.microsoft.com/en-us/blog/full-text-search-is-now-available-for-preview-in-azure-sql-database/
+* [Install SQL Server Full-Text Search on Linux](https://docs.microsoft.com/en-us/sql/linux/sql-server-linux-setup-full-text-search?view=sql-server-ver15)
